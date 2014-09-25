@@ -43,17 +43,18 @@ SVG Presentation Attributes:
 }
  
 .eye { 
-    fill: lightblue;
+    fill: saddlebrown;
 
 }
  
 .arm {
-    fill: lightyellow;
+    fill: peachpuff;
+    stroke: peachpuff;
 }
  
 .shoe {
-    stroke: #FFF112;
-    fill: gray;
+    stroke: sienna;
+    fill: sienna;
 }
  
 .left {
@@ -63,7 +64,8 @@ SVG Presentation Attributes:
 }
  
 #head {
- 
+    fill: peachpuff;
+    stroke: peachpuff;
 }
  
 #right-eye {
@@ -73,18 +75,28 @@ SVG Presentation Attributes:
 }
  
 #neck {
+    fill: peachpuff;
+    stroke: peachpuff;
 }
  
 #shirt {
+    stroke: darkseagreen;
+    fill: darkseagreen;
 }
  
 #cape {
+    fill: white;
+    stroke: white;
 }
  
 #mouth {
+    fill: darksalmon;
+    stroke: darksalmon;
 }
  
 #pants {
+    stroke: midnightblue;
+    fill: midnightblue;
 }
  
 #left-arm {
