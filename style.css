@@ -43,14 +43,16 @@ SVG Presentation Attributes:
 }
  
 .eye { 
+    fill: lightblue;
 
 }
  
 .arm {
-    fill: rgb(243, 191, 189);
+    fill: lightyellow;
 }
  
 .shoe {
+    stroke: #FFF000
 }
  
 .left {
