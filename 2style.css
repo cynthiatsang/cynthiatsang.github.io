@@ -6,24 +6,24 @@ svg {
  
 #logo-center {
     position: absolute;
-    top: 100px;
-    left: 100px;
+    top: 550px;
+    left: 600px;
 }
  
 #logo-top-left {
     position: absolute;
-    top: 50px;
-    left: 22px;
+    top: 500px;
+    left: 522px;
 }
  
 #logo-top-right {
     position: absolute;
-    top: 50px;
-    left: 258px;
+    top: 500px;
+    left: 758px;
 }
  
 #logo-bottom {
     position: absolute;
-    top: 374px;
-    left: 98px;
+    top: 824px;
+    left: 598px;
 }
